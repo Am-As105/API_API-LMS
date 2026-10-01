@@ -1,0 +1,23 @@
+{
+  "name": "api_api-lms",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Am-As105/API_API-LMS#readme",
+  "bugs": {
+    "url": "https://github.com/Am-As105/API_API-LMS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Am-As105/API_API-LMS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
