@@ -2,7 +2,6 @@ const mongoose = require("mongoose")
 
 // const db = require('../config/db');
 
-const mongoose = require('mongoose');
 
 const course_schema = new mongoose.Schema(
     {
